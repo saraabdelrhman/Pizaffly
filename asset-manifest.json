@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pizaffly/static/css/main.9135150d.css",
+    "main.js": "/Pizaffly/static/js/main.f2de7cca.js",
+    "static/js/592.4df176d3.chunk.js": "/Pizaffly/static/js/592.4df176d3.chunk.js",
+    "static/media/top-view-tasty-cheese-pizza-with-sausages-tomatoes-dark-table.jpg": "/Pizaffly/static/media/top-view-tasty-cheese-pizza-with-sausages-tomatoes-dark-table.b38a03a2593e57c977c2.jpg",
+    "static/media/crispy-mixed-pizza-with-olives-sausage.jpg": "/Pizaffly/static/media/crispy-mixed-pizza-with-olives-sausage.0aa728aa33b4ea545672.jpg",
+    "static/media/close-up-delicious-pizza.jpg": "/Pizaffly/static/media/close-up-delicious-pizza.3a97afe251e54a6d06d6.jpg",
+    "static/media/tasty-top-view-sliced-pizza-italian-traditional-round-pizza.jpg": "/Pizaffly/static/media/tasty-top-view-sliced-pizza-italian-traditional-round-pizza.13a44c8624f16a9f69b3.jpg",
+    "static/media/jpg": "/Pizaffly/static/media/5b57d6d0b26e6e42e460a13259ef3cd1.8bb72beb6c39699bd30e.jpg",
+    "index.html": "/Pizaffly/index.html",
+    "main.9135150d.css.map": "/Pizaffly/static/css/main.9135150d.css.map",
+    "main.f2de7cca.js.map": "/Pizaffly/static/js/main.f2de7cca.js.map",
+    "592.4df176d3.chunk.js.map": "/Pizaffly/static/js/592.4df176d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9135150d.css",
+    "static/js/main.f2de7cca.js"
+  ]
+}
