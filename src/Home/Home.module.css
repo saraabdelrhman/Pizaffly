@@ -1,0 +1,10 @@
+.img {
+  clip-path: polygon(100% 0, 51% 0, 74% 50%, 50% 100%, 100% 100%);
+  background-image: url(../../src/close-up-delicious-pizza.jpg);
+  background-size: 200vh;
+  height: 91.5vh;
+}
+
+.color {
+  background-color: rgb(0, 0, 0);
+}

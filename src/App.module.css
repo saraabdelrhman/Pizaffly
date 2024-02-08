@@ -1,0 +1,9 @@
+.img{
+    background-image: url(../src/2d586a8c-9522-4913-a367-c8b0afb9b82a.jfif);
+    height: 90vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
